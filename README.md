@@ -8,10 +8,17 @@ The following GHC versions and the corresponding last-known-to-build nixpkgs
 revisions are included, most are cached in `cache.nixos.org`:
 
 - `6.10.4`
+- `6.12.1` (uncached)
+- `6.12.2` (uncached)
 - `6.12.3` (uncached)
+- `7.0.2` (uncached)
+- `7.0.3` (uncached)
 - `7.0.4`
+- `7.2.1` (uncached)
 - `7.2.2` (uncached)
+- `7.4.1` (uncached)
 - `7.4.2`
+- `7.6.1` (uncached)
 - `7.6.3`
 - `7.8.3`
 - `7.8.4` (uncached)
